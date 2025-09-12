@@ -1,5 +1,7 @@
 ***3DP-Rotator***<br />
-3d Printed Antenna Rotator Project - To be used with various antennas to communicate with satellite and other radio sources in conjunction with gpredict for satellite tracking.
+3d Printed Antenna Rotator Project - To be used with various antennas to communicate with satellite and other radio sources in conjunction with gpredict for satellite tracking.<br />
+<br />
+Follow along as I am printing parts @ https://www.twitch.tv/radiomakerlive<br />
 
 
 ***Current Status***<br />
