@@ -7,15 +7,15 @@ Follow along as I am printing parts @ https://www.twitch.tv/radiomakerlive<br />
 ***Current Status***<br />
 (1) Structure \ Body design underway. Drafts being printed as we speak to confirm measurements. Will be modeled for 360 azimuth movement with elevation. Looking to make a quality option for use with gpredict.
 
-(2) ESP32 Code - Various programming tests completed with assistance from Grok. Worm Gear Motors are all moving and performing well. Waiting on the structure to be complete for final testing.<br />
+(2) ESP32 Code - Various programming tests completed with assistance from Grok. Worm Gear Motors are all moving and performing well. Waiting on the structure to be complete for final testing.<br /><br />
 
 ***Materials Used***<br />
-Tripod for Mounting: https://amzn.to/4h6pDvi
-Worm Gear Motors, DC 12V: https://amzn.to/3J0NmjK
-Motor Driver Controlls for Worm Gear Motors: https://amzn.to/48m8USp
-Bearings for Antenna Mount Arm to Rotate On: https://amzn.to/4703WbA
-Transfer Bearings to Allow Upper Unit to Rotate On: https://amzn.to/3IJ4N8C
-ESP32-S3 Boards: https://amzn.to/4mVRwY7<br />
+Tripod for Mounting: https://amzn.to/4h6pDvi<br />
+Worm Gear Motors, DC 12V: https://amzn.to/3J0NmjK<br />
+Motor Driver Controlls for Worm Gear Motors: https://amzn.to/48m8USp<br />
+Bearings for Antenna Mount Arm to Rotate On: https://amzn.to/4703WbA<br />
+Transfer Bearings to Allow Upper Unit to Rotate On: https://amzn.to/3IJ4N8C<br />
+ESP32-S3 Boards: https://amzn.to/4mVRwY7<br /><br />
 
 Breadboard and various wires for testing and connectivity - https://amzn.to/4majBe5<br />
 
