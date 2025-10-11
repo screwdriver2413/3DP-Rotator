@@ -7,15 +7,21 @@ Follow along as I am printing parts @ https://www.twitch.tv/radiomakerlive<br />
 ***Current Status***<br />
 (1) Structure \ Body design underway. Drafts being printed as we speak to confirm measurements. Will be modeled for 360 azimuth movement with elevation. Looking to make a quality option for use with gpredict.
 
-(2) ESP32 Code - Various programming tests completed with assistance from Grok. Servo's are all moving and performing well. Waiting on the structure to be complete for final testing.
+(2) ESP32 Code - Various programming tests completed with assistance from Grok. Worm Gear Motors are all moving and performing well. Waiting on the structure to be complete for final testing.<br />
 
 ***Materials Used***<br />
-MG996R Servo Motors (2) - https://amzn.to/3IkjZsl (not 360* continuous motion modified versions, we need the position tracking)<br />
-Adafruit Feedback 360 Servo (1) (https://www.adafruit.com/product/3614) - 360 rotation with feedback sensor \ wire<br />
-ESP32-WROOM-32 - https://amzn.to/4pszZcL<br />
+Tripod for Mounting: https://amzn.to/4h6pDvi
+Worm Gear Motors, DC 12V: https://amzn.to/3J0NmjK
+Motor Driver Controlls for Worm Gear Motors: https://amzn.to/48m8USp
+Bearings for Antenna Mount Arm to Rotate On: https://amzn.to/4703WbA
+Transfer Bearings to Allow Upper Unit to Rotate On: https://amzn.to/3IJ4N8C
+ESP32-S3 Boards: https://amzn.to/4mVRwY7<br />
+
 Breadboard and various wires for testing and connectivity - https://amzn.to/4majBe5<br />
 
 
 
 ***Credits***<br />
-t0nito: https://www.thingiverse.com/thing:6436342  -  I am modeling an adapter for my rotator to move the dish and antenna from this project specifically as many have had great success here. All credit for that to t0nito. As a handheld or tripod mount project, it's rock solid.
+t0nito: https://www.thingiverse.com/thing:6436342  -  One of the projects that sparked my want for a rotator. His project works fantastic and is limited by my arm holding and aiming it.
+
+
