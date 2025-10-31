@@ -12,12 +12,17 @@ Follow along as I am printing parts @ https://www.twitch.tv/radiomakerlive<br />
 ***Materials Used***<br />
 Tripod for Mounting: https://amzn.to/4h6pDvi<br />
 Worm Gear Motors, DC 12V: https://amzn.to/3J0NmjK<br />
-Motor Driver Controlls for Worm Gear Motors: https://amzn.to/48m8USp<br />
-Bearings for Antenna Mount Arm to Rotate On: https://amzn.to/4703WbA<br />
-Transfer Bearings to Allow Upper Unit to Rotate On: https://amzn.to/3IJ4N8C<br />
-ESP32-S3 Boards: https://amzn.to/4mVRwY7<br /><br />
-
+Motor Driver Controllers for Worm Gear Motors: https://amzn.to/48m8USp<br />
+Raspberry Pi 3B+: https://amzn.to/436onmb
 Breadboard and various wires for testing and connectivity - https://amzn.to/4majBe5<br />
+RM3100 Compass Module: https://amzn.to/3LicG5E
+ADXL345 Tilt Module: https://amzn.to/4hC9JZC
+eSun PETG 3d Printing Filament: https://amzn.to/3JymhEP
+Bambu X1c 3d Printer. 
+Assorted Cable Glands: https://amzn.to/47wUYTp
+Generic 12v Power Supply: https://amzn.to/4oFWARI
+Cable Quick Disconnect: https://amzn.to/436ow9d
+d-Shaft Hub: https://www.robotshop.com/products/servocity-1310-series-hyper-hub-6mm-d-bore?qd=c33f1d6b2caf8adfecd86aa77bc9805f
 
 
 
